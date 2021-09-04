@@ -3,7 +3,7 @@
 ---
 I'm Aaquib, I'm a Full Stack Developer who is passionate about programming, making creative website, and helping the community.
 
-- [ ] 🌱 Currently working on my Social Media App [JournalBit]
+- [ ] 🌱 Currently working on my Social Media App [JournalBit](https://journalbit.netlify.app)
 - [ ] 🥅 2021 Goals: Write atleast 20+ coding blog on [DevCript](https://devcript.com)
 - [ ] ⚡ I love to solve programs on [LeetCode](https://leetcode.com/killcodeX/)
 
