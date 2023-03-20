@@ -4,7 +4,7 @@
 I'm Aaquib, I'm a Full Stack Developer who is passionate about programming, making creative website, and helping the community.
 
 - [ ] 🌱 Currently working on my Social Media App [JournalBit](https://journalbit.netlify.app)
-- [ ] 🥅 2022 Goals: Write atleast 40+ coding blog on [DevCript](https://devcript.com)
+- [ ] 🥅 2023 Goals: Write atleast 40+ coding blog on [DevCript](https://devcript.com)
 - [ ] ⚡ Trying to master DSA [LeetCode](https://leetcode.com/killcodeX/)
 
 ---
@@ -20,9 +20,13 @@ I'm Aaquib, I'm a Full Stack Developer who is passionate about programming, maki
     "database": ["mondo db"]
   },
   "ide": ["vs code"],                     
-  "others": ["canva", "wordpress", "photoshop", "rest api", "webpack", "heroku", "netlify"]
+  "others": ["Canva", "Wordpress", "Shopify", "photoshop", "rest api", "webpack", "heroku", "netlify"]
 }
 ```
+---
+
+[![Aaquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=killcodeX&show_icons=true&theme=radical)
+
 ---
 
 ### Favourite Stack
