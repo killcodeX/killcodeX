@@ -25,7 +25,8 @@ I'm Aaquib, I'm a Full Stack Developer who is passionate about programming, maki
 ```
 ---
 
-[![Aaquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=killcodeX&show_icons=true&theme=radical)
+[![Aaquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=killcodeX&show_icons=true&theme=vue-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killcodeX&layout=compact)]
 
 ---
 
