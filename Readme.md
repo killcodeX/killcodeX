@@ -1,10 +1,10 @@
 # Hey :smiley:
 
 ---
-I'm Aaquib, I'm a Full Stack Developer who is passionate about programming, making creative website, and helping the community.
+Hi, I’m Aaquib, a front-end engineer with over 5 years of experience, passionate about crafting dynamic and user-centric web applications. I bring a strong foundation in various programming languages and frameworks to deliver impactful solutions, particularly for e-commerce and SaaS businesses. Based in the New York Metropolitan area.
 
-- [ ] 🌱 Currently working on my Social Media App [JournalBit](https://journalbit.netlify.app)
-- [ ] 🥅 2023 Goals: Write atleast 40+ coding blog on [DevCript](https://devcript.com)
+- [ ] 🌱 Currently working on my AI based learning App [GenquizAI](https://quiz-gen-ai-front.vercel.app/)
+- [ ] 🥅 2025 Goals: Write atleast 40+ coding blog on [DevCript](https://devcript.com)
 - [ ] ⚡ Trying to master DSA [LeetCode](https://leetcode.com/killcodeX/)
 
 ---
@@ -12,29 +12,24 @@ I'm Aaquib, I'm a Full Stack Developer who is passionate about programming, maki
 ```yaml
 {
   "frontend": {
-    "framework/library": "Angular","React Js", "Redux","Redux Thunk", "Next Js"
-    "ui": ["ant design", "bootstrap", "material ui", "html", "css", "styled-components", "javascript"]
+    "framework/library": ["React.js", "Redux", "Redux Toolkit", "Next.js", "Tailwind CSS", "Shadcn", "Material UI", "Ant Design", "Styled Components"],
+    "UI": ["HTML", "CSS", "JavaScript", "TypeScript"]
   },
   "backend": {
-    "framework/library": "Node Js","Express Js", "JWT",
-    "database": ["mondo db"]
+    "framework/library": ["Node.js", "Express.js", "GraphQL", "Prisma", "REST APIs"],
+    "database": ["PostgreSQL", "MongoDB"]
   },
-  "ide": ["vs code"],                     
-  "others": ["Canva", "Wordpress", "Shopify", "photoshop", "rest api", "webpack", "heroku", "netlify"]
+  "cms_ecommerce": ["Shopify (Liquid)", "WordPress (PHP, ACF)", "WooCommerce"],
+  "testing": ["Jest", "React Testing Library"],
+  "build_tooling": ["Storybook", "Rollup", "Docker", "Git"],
+  "cloud_devops": ["Google Cloud Platform (GCP)"],
+  "ide": ["VS Code", "Visual Studio", "IntelliJ"]
 }
 ```
 ---
 
 ![Aaquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=killcodeX&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killcodeX&layout=compact)
-
----
-
-### Favourite Stack
-<img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<br/>
 
 ---
 ### Connect w/ Me:
